@@ -94,5 +94,11 @@ Author
 Bazila Sulthana
 
 MCA Student | Aspiring Software Developer
+## Screenshots
 
+### Home Screen
+![Home Screen](screenshots/01-home-screen.png)
+
+### Chat Answer
+![Chat Answer](screenshots/02-chat-answer.png)
 GitHub: https://github.com/bazilasulthana
